@@ -8,7 +8,7 @@
 * Advanced developer tools
 * Compatible with a wide range of VR devices
 
-**Technologies Used:** React JS, Vite, Redux Toolkit, Tailwind Css.
+**Technologies Used:** React-JS, Vite-Js, Redux-Toolkit, Tailwind-Css.
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/Shrouk_Fathy/virtualR_.git`
